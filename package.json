@@ -21,7 +21,7 @@
         "./src/*/index.jsx"
     ]
   },
-  "description": "RAGU2 is a music bot for Discord that allows users to play, pause, and manage music tracks in voice channels. The bot supports integration with Yandex Music and provides various commands for controlling playback.",
+  "description": "Sprut.",
   "homepage": "https://github.com/dirold2/sprut",
   "repository": {
     "type": "git",
